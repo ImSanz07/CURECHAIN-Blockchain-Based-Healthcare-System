@@ -7,11 +7,7 @@
 
 var web3;
 
-//Below add agent deployed address
-// var agentContractAddress = '0xB0aDaF3f6F60c13FF79f554bA6D2fBF77B845110';
-// var agentContractAddress = '0x6619264055c32f68120dc45002BbD5F3C6897Cc2';
-// var agentContractAddress = '0xC6b9808AdecDedD97bC25bfd7777c9E7fC368d3e';
-// var agentContractAddress = '0xcBa8B0f94e125ae9aC429Ca37EcBA1ADe5041731';
+//Below add agent deployed address on BNB testNet
 var agentContractAddress = '0x54810d23c1949B174230Edd8Bd404f6f03359359';
 
 function connect() {

@@ -1,6 +1,6 @@
 
 # MediSync
-
+Check the BNB deployed address here: https://testnet.bscscan.com/address/0x54810d23c1949B174230Edd8Bd404f6f03359359
 ```
 BNB Deployed address: "0x54810d23c1949B174230Edd8Bd404f6f03359359"
 ```

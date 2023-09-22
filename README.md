@@ -6,6 +6,7 @@ BNB Deployed address: "0x54810d23c1949B174230Edd8Bd404f6f03359359"
 ```
 ## Description
 
+PPT link: https://drive.google.com/file/d/17k1uuqJ1_pODwJNEpo0ZhahGoZRWkx27/view?usp=sharing
 
 MediSync is a comprehensive blockchain-based healthcare infrastructure that addresses identity management, medical records management, user interfaces for various stakeholders, integration with Health Stack, and document search, sharing, and digitization capabilities. Here's a brief description of each component:
 

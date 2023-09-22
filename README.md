@@ -4,6 +4,9 @@
 ```
 BNB Deployed address: "0x54810d23c1949B174230Edd8Bd404f6f03359359"
 ```
+
+Demo video link: https://drive.google.com/file/d/1-tzPyiBrm3eUplw-26gcWvynv90wKeaR/view?usp=sharing
+
 ## Description
 
 PPT link: https://drive.google.com/file/d/17k1uuqJ1_pODwJNEpo0ZhahGoZRWkx27/view?usp=sharing
